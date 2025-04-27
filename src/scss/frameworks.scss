@@ -1,12 +1,10 @@
 @forward "helpers/colors";
 @forward "helpers/fonts";
 @forward "helpers/global";
+@forward "helpers/wrapper";
 
-// @forward "blocks/wrapper.scss";
-// @forward "helpers/helpers";
-//
-
-// @forward "blocks/header.scss";
+@forward "blocks/header.scss";
+@forward "blocks/burger-menu.scss";
 // @forward "blocks/hero.scss";
 
 // @forward "blocks/footer.scss";
